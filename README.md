@@ -29,6 +29,7 @@ The main advantages in refactoring code would be to save processing power and ti
 
 ### Advantages and disadvantages of the original and refactored VBA Script
 The main reason the original code takes longer than our refactored code is because of the nested for loop. The nested for loop is easier to write but goes through too much data to be time efficient.
+
 Our original code from the modules was simpler and required less lines of code, however as we can see the process takes longer (.703 seconds):
 #### Old Code
 ![Chart](Resources/Old_2017.PNG)
