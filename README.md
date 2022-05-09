@@ -21,9 +21,9 @@ After analyzing the data, we were able to determine that DQ returned 199.4% in 2
 The main advantages in refactoring code would be to save processing power and time. One disadvantage I could see would be the time and effort it takes to refactor the code. We can see that the refactored code is actually longer and more complicated than the original code
 
 Orignal:
-![Chart](old_code.png)
+![Chart](Resources/old_code.png)
 Refactored:
-![Chart](new_code.png)
+![Chart](Resources/new_code.png)
 
 ### Advantages and disadvantages of the original and refactored VBA Script
 
