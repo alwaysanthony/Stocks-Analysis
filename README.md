@@ -39,4 +39,6 @@ Compared to our newly refactored code(.140 seconds):
 ![Chart](Resources/VBA_Challenge_2017.PNG)
 
 
+The difference in time may only be half a second, but in terms of efficiency, the new refactored code is 5x faster!
+
 
