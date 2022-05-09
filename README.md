@@ -1,23 +1,17 @@
-# Kickstarting with Excel
+# VBA of Wall Street
 
 ## Overview of Project
 
 ### Purpose
 
-## Analysis and Challenges
+We are helping Steve diversify his parents' portfolio. With the data Steve has provided, we will use automated processes through the use of VBA in Excel to analyze and highlight this information.
 
-### Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
+## Analysis
 
-### Challenges and Difficulties Encountered
+### Results
 
-## Results
+After analyzing the data, we were able to determine that DQ returned 199.4% in 2017 but did not do as well in 2018 returning -62.6%. Steve was right in wanting to diversify his parents' portfolio. When working with this much data, it is quite easy to get lost. To make things a little easier for Steve, we've created buttons to analyze the data according to the year as well as color code tickers with green for gains and red for losses.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+## Summary
